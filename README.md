@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Topics
 
-This project shows teh following Advanced Components examples:
+This project shows the following Advanced Components examples:
 1. Content projection with ng-content.
 2. Using ng-content with projection slots.
 3. Projecting and binding to components.
