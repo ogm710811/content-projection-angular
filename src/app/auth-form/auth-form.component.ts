@@ -7,7 +7,7 @@ import { User } from '../models/user';
 })
 export class AuthFormComponent implements OnInit {
   @Output() submitted: EventEmitter<User> = new EventEmitter<User>();
-  
+
   constructor() { }
 
   ngOnInit() {

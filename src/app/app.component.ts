@@ -7,7 +7,7 @@ import { User } from '../app/models/user';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  rememberMe: boolean = false;
+  rememberMe = false;
 
   rememberUser(remember: boolean) {
     this.rememberMe = remember;
